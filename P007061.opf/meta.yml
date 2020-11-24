@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG12544
   title: ཚད་མ་རིགས་པའི་གཏེར་གྱི་དགོངས་དོན་གསལ་བར་བྱེད་པའི་ལེགས་བཤད་ངག་གི་དཔལ་གཏེར།
-  volume: ''
+  volume:
+    09a35f46155f4ee5a6b9a6fda7fd3d05:
+      image_group_id: I1KG12609
+      title: Volume 1 of tshad ma rigs pa'i gter gyi dgongs don gsal bar byed pa'i
+        legs bshad ngag gi dpal gter/
+      volume_number: 1
+      total_pages: 652
   author: ''
+ebook_metadata:
+  title: ཚད་མ་རིགས་པའི་གཏེར་གྱི་དགོངས་དོན་གསལ་བར་བྱེད་པའི་ལེགས་བཤད་ངག་གི་དཔལ་གཏེར།
+  author: ''
+  sku: P007061
+  cover: cover.jpg
+  layers:
+  - pagination
